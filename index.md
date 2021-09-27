@@ -52,8 +52,6 @@ public int thisMethodHasNoCommentsSMH(int num, int num2) {
 }
 ```
 
-## Some pictures of me
-
 ## Lab 1 Check List 
 - [X] Installed Visual Studio Code and Extensions
 - [X] Familiarizing Ourselves with Git
