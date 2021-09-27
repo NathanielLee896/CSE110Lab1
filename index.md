@@ -14,15 +14,15 @@
 Hi! My name is Nathan Lee and this is a page for you to get to know a little bit more about myself. I am from San Jose, California and I am in my fourth and hopefully final year at UCSD. I am pursuing **Math-CS** as my major. This Fall 2021, I am taking CSE 110 because I am pretty excited to be taking a course that it is more applicable to the workplace (*not to say that theory classes haven't been useful*) and I get the opporunity to work and create a project with some fellow classmates.
 
 ## Experience in Coding 
-***Number of Years Coding***: 
-- 6 (2 at HS level, 4 at University level)
-***Internships***: 
-- 12 - weeks at Amazon Web Services Lambda Department
-***Projects***: 
-- Lambda Onboarding Tool
-- Amazon RabbitMQ 
-- Pomodoro Timer with Web Blocker
-- Pac-Man X Space Invaders (Here is a link to see my video presentation of this [game](https://bit.ly/2WdrkSv))
+- ***Number of Years Coding***: 
+  - 6 (2 at HS level, 4 at University level)
+- ***Internships***: 
+  - 12 - weeks at Amazon Web Services Lambda Department
+- ***Projects***: 
+  - Lambda Onboarding Tool
+  - Amazon RabbitMQ 
+  - Pomodoro Timer with Web Blocker
+  - Pac-Man X Space Invaders (Here is a link to see my video presentation of this [game](https://bit.ly/2WdrkSv))
 
 ## Favorite Quotes to Motivate Me
 - Alfred in Dark Knight: 
