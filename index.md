@@ -35,17 +35,17 @@ Michael Scott:
 
 
 ## Top 3 Bugs that made me cry (Java Edition)
-1. Extra Semicolons 
+1. Extra Semicolons (This bug happened to me back in High School where I was stuck on this error for 2 whole days until my teacher looked at my code for 2 seconds and noticed the bug.)
 ```
 System.out.println("Hello World!);;
 ```
-2. Infinite Loops
+2. Infinite Loops (This bug happened to me in CSE 11 when I was in the CS Dungeon and struggling to submit a PA as time was ticking down.)
 ```
 while(true) {
     System.out.println("Hello World!);
 }
 ```
-3. Missing Java doc comment (*Check Style Error*)
+3. Missing Java doc comment (*Check Style Error*) (This error kept showing up during my internship as I was trying to merely test parts of newly written code before deciding whether I needed it or not.)
 ```
 public int thisMethodHasNoCommentsSMH(int num, int num2) {
     //some interesting code
