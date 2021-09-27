@@ -1,11 +1,13 @@
 # Nathan Lee's User Page
 
 ## Table of Contents
-[About Myself](#about-myself)
-[Experience](#experience-in-coding)
-[Favorite Quotes](#favorite-quotes-to-motivate-me)
-[Top 3 Bugs that made me Cry](#top-3-bugs-that-made-me-cry-java-edition)
-[Lab 1 Check List](#lab-1-check-list)
+- [Nathan Lee's User Page](#nathan-lees-user-page)
+  - [Table of Contents](#table-of-contents)
+  - [About Myself](#about-myself)
+  - [Experience in Coding](#experience-in-coding)
+  - [Favorite Quotes to Motivate Me](#favorite-quotes-to-motivate-me)
+  - [Top 3 Bugs that made me cry (Java Edition)](#top-3-bugs-that-made-me-cry-java-edition)
+  - [Lab 1 Check List](#lab-1-check-list)
 
 
 ## About Myself
@@ -23,14 +25,13 @@ Hi! My name is Nathan Lee and this is a page for you to get to know a little bit
 - Pac-Man X Space Invaders (Here is a link to see my video presentation of this [game](https://bit.ly/2WdrkSv))
 
 ## Favorite Quotes to Motivate Me
-Alfred in Dark Knight: 
+- Alfred in Dark Knight: 
 > Why do we fall sir? So that we can learn to pick ourselves up. 
-Thomas Edison: 
+- Thomas Edison: 
 > "I have not failed. I've just found 10,000 ways that won't work." 
-Lance Armstrong: 
+- Lance Armstrong: 
 > "Pain is temporary. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever." 
-Michael Scott: 
-![Michael Scott Image](https://lanthorn.com/wp-content/uploads/2019/11/office-300x200.jpg)
+- Michael Scott: 
 ![Michael Scott Image](michaelscott.jpg)
 
 
