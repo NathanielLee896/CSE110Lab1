@@ -32,7 +32,7 @@ Hi! My name is Nathan Lee and this is a page for you to get to know a little bit
 - Lance Armstrong: 
 > "Pain is temporary. It may last a minute, or an hour, or a day, or a year, but eventually it will subside and something else will take its place. If I quit, however, it lasts forever." 
 - Michael Scott: 
-![Michael Scott Image](michaelscott.jpg)
+> ![Michael Scott Image](michaelscott.jpg)
 
 
 ## Top 3 Bugs that made me cry (Java Edition)
